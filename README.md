@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/WZVP2HuAag" style="height: 40px !important;"><img src="https://discordapp.com/api/guilds/851371040566673428/widget.png?style=banner2" alt="Join us on Discord" style="height: 40px !important;width: 180px !important;border-radius: 19px !important;" ></a>
 <a href='https://ko-fi.com/F1F06RMBO' target='_blank'><img height='36' style='border:0px;height:40px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.printables.com/model/348118-snakeoilxy-3s' target='_blank'><img height='36' style='border:0px;height:40px;' src='https://github.com/ChipCE/SnakeOilXY-3S/blob/master/img/download.png?raw=true' border='0' alt='download link' /></a>
+<a href='https://www.printables.com/model/348118-snakeoilxy-3s/files' target='_blank'><img height='36' style='border:0px;height:40px;' src='https://github.com/ChipCE/SnakeOilXY-3S/blob/master/img/download.png?raw=true' border='0' alt='download link' /></a>
 
 # SnakeOilXY-3S
 Entry level, low cost mod for Kingroon KP3S 3D printer.
