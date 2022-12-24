@@ -90,7 +90,7 @@ Kingroon KP3/3S is a nice small printer, but it comes with some mechanical desig
         <tr>
             <td>20T 6mm Tooth Idler (5mm bore)</td>
             <td>2</td>
-            <td>Only E3D's Gates idler or Mellow's Gates idler will fir</td>
+            <td>Only E3D's Gates idler or Mellow's Gates idler will fit</td>
             <td><a href="https://s.click.aliexpress.com/e/_Ad1n92" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
@@ -121,13 +121,13 @@ Kingroon KP3/3S is a nice small printer, but it comes with some mechanical desig
             <td>5015 blower fan</td>
             <td>1</td>
             <td>Direct extruder parts - OPTIONAL</td>
-            <td><a href="https://s.click.aliexpress.com/e/_DllkWdp " rel="nofollow">Aliexpress</a></td>
+            <td><a href="https://s.click.aliexpress.com/e/_DllkWdp" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
             <td>3010 fan</td>
             <td>1</td>
             <td>Direct extruder parts - OPTIONAL</td>
-            <td><a href=" https://s.click.aliexpress.com/e/_DlSF5np" rel="nofollow">Aliexpress</a></td>
+            <td><a href="https://s.click.aliexpress.com/e/_DlSF5np" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
             <td>PTFE tube clip set</td>
