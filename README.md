@@ -91,7 +91,7 @@ Kingroon KP3/3S is a nice small printer, but it comes with some mechanical desig
             <td>20T 6mm Tooth Idler (5mm bore)</td>
             <td>2</td>
             <td>Only E3D's Gates idler or Mellow's Gates idler will fit</td>
-            <td><a href="https://s.click.aliexpress.com/e/_Ad1n92" rel="nofollow">Aliexpress</a></td>
+            <td><a href="https://www.aliexpress.com/item/33023133633.html" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
             <td>6mm 2GT belt</td>
