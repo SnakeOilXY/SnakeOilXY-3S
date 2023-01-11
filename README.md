@@ -13,6 +13,8 @@ Entry level, low cost mod for Kingroon KP3S 3D printer.
 
 Kingroon KP3/3S is a nice small printer, but it comes with some mechanical design problems. This mod is aiming at fixing there problem with the lowest cost as possible.
 
+__This mod is for people already bought the KP3/S. DO NOT buy the KP3/S just because of this mod. There are many better printers you can build with the same price. For example [The Tic-Tac](https://www.printables.com/model/164038-tic-tac-miniaturised-v-minion)__
+
 ## 2. The problems and solutions
 
 ### 2.1. X and Y axis
