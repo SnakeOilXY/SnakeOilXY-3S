@@ -2,8 +2,9 @@
 
 <a href="https://discord.gg/WZVP2HuAag" style="height: 40px !important;"><img src="https://discordapp.com/api/guilds/851371040566673428/widget.png?style=banner2" alt="Join us on Discord" style="height: 40px !important;width: 180px !important;border-radius: 19px !important;" ></a>
 <a href='https://ko-fi.com/F1F06RMBO' target='_blank'><img height='36' style='border:0px;height:40px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.printables.com/model/348118-snakeoilxy-3s/files' target='_blank'><img height='36' style='border:0px;height:40px;' src='https://github.com/ChipCE/SnakeOilXY-3S/blob/master/img/download.png?raw=true' border='0' alt='download link' /></a>
 <a href='https://www.amazon.jp/hz/wishlist/ls/2AHXTCG01RYAZ?ref_=wl_share' target='_blank'><img height='36' style='border:0px;height:40px; !important;border-radius: 19px' src='./img/buy-me-a-spool.png' border='0' alt='Buy Me a spool at amazon Japan' /></a>
+<a href='https://www.printables.com/model/348118-snakeoilxy-3s/files' target='_blank'><img height='36' style='border:0px;height:40px;' src='https://github.com/ChipCE/SnakeOilXY-3S/blob/master/img/download.png?raw=true' border='0' alt='download link' /></a>
+
 
 # SnakeOilXY-3S
 Entry level, low cost mod for Kingroon KP3S 3D printer.
@@ -14,7 +15,9 @@ Entry level, low cost mod for Kingroon KP3S 3D printer.
 
 Kingroon KP3/3S is a nice small printer, but it comes with some mechanical design problems. This mod is aiming at fixing there problem with the lowest cost as possible.
 
-__This mod is for people already bought the KP3/S. DO NOT buy the KP3/S just because of this mod. There are many better printers you can build with the same price. For example [The Tic-Tac](https://www.printables.com/model/164038-tic-tac-miniaturised-v-minion)__
+__*This mod is for people already bought the KP3/S. DO NOT buy the KP3/S just because of this mod. There are many better printers you can build with the same price. For example [The Tic-Tac](https://www.printables.com/model/164038-tic-tac-miniaturised-v-minion)__
+
+__*This mod is designed by measuring the real hardware of the first revision of the KP3(the model with Creality style direct red extruder). Some parts might need some minnor modify to fit other revisons of the machine.__
 
 ## 2. The problems and solutions
 
@@ -85,10 +88,10 @@ __This mod is for people already bought the KP3/S. DO NOT buy the KP3/S just bec
             <td><a href="https://s.click.aliexpress.com/e/_De3O1rt" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
-            <td>626 bearing</td>
+            <td>688 bearing</td>
             <td>1</td>
             <td></td>
-            <td><a href="https://s.click.aliexpress.com/e/_DmHvzmn" rel="nofollow">Aliexpress</a></td>
+            <td><a href="https://s.click.aliexpress.com/e/_Dd0g23b" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
             <td>20T 6mm Tooth Idler (5mm bore)</td>
