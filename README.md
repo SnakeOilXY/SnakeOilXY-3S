@@ -31,6 +31,7 @@ __*This mod is designed by measuring the real hardware of the first revision of 
 - This mod added belt tensioner for X and Y axis.
 - Change the belt mounting method to make the belt path straight.(check image bellow, this method apply for both X and Y belt).
 - All motor shafts are supported by bearing.
+- You will need new belts for XY tensioner mod since the belt path is a little longer than the original design. If not using my toolhead, you might need to your toolhead mounter to get full X movement.
 
 ![](./img/belt-mount.jpg)
 ![](./img/img03.jpg)
