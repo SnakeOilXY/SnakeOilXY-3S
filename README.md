@@ -145,8 +145,75 @@ __*This mod is designed by measuring the real hardware of the first revision of 
         <tr>
             <td>Bolts and nuts</td>
             <td>?</td>
-            <td>Work-in-Progress</td>
-            <td></td>
+            <td>Work-in-Progress (Minimums below:)</td>
+        </tr>
+        <tr>
+            <td>M3x6</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>M3x8</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>M3x10</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>M3x12</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>M3x14</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>M3x16</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>M3x20</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>M3x30</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>M3x35</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>M3x40</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>M4x20</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>M4x35</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>M5x12</td>
+            <td>2</td></td>
+        </tr>
+        <tr>
+            <td>M5x35</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>M3 washers</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>M3 nuts</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>M5 washers</td>
+            <td>2</td>
         </tr>
     </tbody>
 </table>
