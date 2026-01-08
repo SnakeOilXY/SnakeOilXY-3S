@@ -13,7 +13,7 @@ Entry level, low cost mod for Kingroon KP3S 3D printer.
 
 ## 1. Introduction
 
-Kingroon KP3S is a nice small printer, but it comes with some mechanical design problems. This mod is aiming at fixing there problem with the lowest cost as possible.
+Kingroon KP3S is a nice small printer, but it comes with some mechanical design problems. This mod aims to fix these problems at the lowest possible cost.
 
 __*This mod is for people already bought the KP3/S. DO NOT buy the KP3/S just because of this mod. There are many better printers you can build with the same price. For example [The Tic-Tac](https://www.printables.com/model/164038-tic-tac-miniaturised-v-minion)__
 
@@ -24,14 +24,14 @@ __*This mod is designed by measuring the real hardware of the first revision of 
 ### 2.1. X and Y axis
 
 - There is no proper way to adjust the belt tension of X and Y axis
-- The belt path is not straight. This will affect the printed part dimension based on where it printed on the build place, special on large model.
+- The belt path is not straight. This will affect the printed part dimensions based on where it is located on the build plate, especially for large models.
 
 ![](./img/angled-belt.png)
 
-- This mod added belt tensioner for X and Y axis.
-- Change the belt mounting method to make the belt path straight.(check image bellow, this method apply for both X and Y belt).
-- All motor shafts are supported by bearing.
-- You will need new belts for XY tensioner mod since the belt path is a little longer than the original design. If not using my toolhead, you might need to your toolhead mounter to get full X movement.
+- This mod added a belt tensioner for X and Y axis.
+- Changed the belt mounting method to make the belt path straight. (Image below, this method applies to both X and Y belts).
+- All motor shafts are supported by bearings.
+- You will need new belts for the XY tensioner mod, since the belt path is a little longer than the original design. If not using my toolhead, you might need to adjust your toolhead mount for full X movement.
 
 ![](./img/belt-mount.jpg)
 ![](./img/img03.jpg)
@@ -40,10 +40,10 @@ __*This mod is designed by measuring the real hardware of the first revision of 
 
 ### 2.2. Z axis
 
-- On some revisions of KP3/S the Z motor center and leadscrew nut are not well aligned. This will make the leadscew wobble and result in Z banding problem. 
-- This mod added Oldham coupler and Position adjustable top support bearing. 
-- Position adjustable top support bearing will allow to fine-adjust the leadscrew position so it parallel to the Z v-slot extrusion.
-- Oldham coulper will deal with axial and angular misalignments of the leadscew nut.
+- On some revisions of KP3/S the Z stepper's vertical center and leadscrew nut are not well aligned. This will make the leadscew wobble and result in problems with Z banding on prints. 
+- This mod added an Oldham coupler and a position-adjustable top support bearing. 
+- Position-adjustable top support bearing allows fine-adjustment of the leadscrew position, with the goal to make it parallel to the Z v-slot extrusion.
+- The Oldham coupler will deal with axial and angular misalignments of the leadscew nut.
 
 ![](./img/z-axis.png)
 ![](./img/img01.jpg)
@@ -51,9 +51,9 @@ __*This mod is designed by measuring the real hardware of the first revision of 
 
 ### 2.3. E axis (optional)
 
-- There is no problem with the original extruder except it too heavy for the unsupported gantry. 
-- This mod added 2 options for lighter extruder: Direct drive Sherpa mini mount and bowden extruder mount. 
-- The above extruder mounters can be use with V6 hotend or any other hotend using the same mounting method(Dragon hotend with groove adapter for example).
+- There is no problem with the original extruder, except it too heavy for the unsupported gantry. 
+- This mod added 2 options for a lighter extruder: Direct drive Sherpa mini mount, or a bowden extruder mount. 
+- The above extruder mounts can be used with V6 hotend, or really any other hotend using the same mounting method (e.g. Dragon hotend with groove adapter).
 - Optional mounting slot for BLtouch/3Dtouch
 - Compatible with [bear_extruder_and_x_axis](https://github.com/gregsaun/bear_extruder_and_x_axis) fan duct and other 3rd party ducts like [RH_Dreambox's Air nozzle for the Bear extruder (Rev.1)](https://www.thingiverse.com/thing:3390107) or [MajorOCD's Fan Duct for Bear Extruder](https://www.thingiverse.com/thing:3855570)
 
@@ -109,11 +109,11 @@ __*This mod is designed by measuring the real hardware of the first revision of 
         <tr>
             <td>4x5x12mm brass tube (IDxODxLength)</td>
             <td>1</td>
-            <td>Can be cuted from longer tube</td>
+            <td>Can be cut from a longer-length tube</td>
             <td><a href="https://s.click.aliexpress.com/e/_DC6Dbc3" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
-            <td>2.5mm wide ziptie</td>
+            <td>2.5mm wide zipties</td>
             <td>1 pack</td>
             <td></td>
             <td></td>
@@ -143,33 +143,29 @@ __*This mod is designed by measuring the real hardware of the first revision of 
             <td><a href="https://s.click.aliexpress.com/e/_DEVMtuF" rel="nofollow">Aliexpress</a></td>
         </tr>
         <tr>
-            <td>Bolts and nuts</td>
+            <td>Fasteners</td>
             <td>?</td>
             <td>Work-in-Progress (Minimums below:)</td>
         </tr>
         <tr>
-            <td>M3x6</td>
-            <td>3</td>
-        </tr>
-        <tr>
             <td>M3x8</td>
-            <td>12</td>
+            <td>6</td>
         </tr>
         <tr>
             <td>M3x10</td>
-            <td>4</td>
+            <td>6</td>
         </tr>
         <tr>
             <td>M3x12</td>
-            <td>12</td>
+            <td>4</td>
         </tr>
         <tr>
             <td>M3x14</td>
-            <td>4</td>
+            <td>9</td>
         </tr>
         <tr>
             <td>M3x16</td>
-            <td>4</td>
+            <td>3</td>
         </tr>
         <tr>
             <td>M3x20</td>
@@ -177,7 +173,7 @@ __*This mod is designed by measuring the real hardware of the first revision of 
         </tr>
         <tr>
             <td>M3x30</td>
-            <td>12</td>
+            <td>10</td>
         </tr>
         <tr>
             <td>M3x35</td>
@@ -205,11 +201,11 @@ __*This mod is designed by measuring the real hardware of the first revision of 
         </tr>
         <tr>
             <td>M3 washers</td>
-            <td>6</td>
+            <td>44</td>
         </tr>
         <tr>
-            <td>M3 nuts</td>
-            <td>8</td>
+            <td>M5 t-nuts for 20-series</td>
+            <td>2</td>
         </tr>
         <tr>
             <td>M5 washers</td>
@@ -220,9 +216,9 @@ __*This mod is designed by measuring the real hardware of the first revision of 
 
 ## 4. How to print parts
 
-- PETG, ABS or PC filament depend on your budget and how hot you will run the printer.
-- 0,4mm nozzle, 0.2mm layer height, 5 walls, 30% infill
-- Oldham coupler will need to be printed with small layer height(0.05~0.1mm) and small diameter nozzle(~0.25mm) if possible. This parts will need some sanding to make the mating surface smooth enough.
+- PETG, ABS or PC filament, depending on your budget and how hot you play to run the printer.
+- 0.4mm nozzle, 0.2mm layer height, 5 walls, 30% infill
+- Oldham coupler will need to be printed with a small layer height (e.g. ~0.05-0.1mm) and small diameter nozzle (~0.25mm) if possible. These parts will need some sanding to smooth the mating surfaces.
 
 ## 5. Copyright Notice
 
